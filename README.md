@@ -1,5 +1,5 @@
 # firstGit
 first a git item
-# test
+# time
 The time you enjoy wasting is not wasted time.
 
